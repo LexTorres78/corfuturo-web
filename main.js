@@ -1,4 +1,4 @@
-/* CORFUTURO — interacciones compartidas */
+/* Forjar Para el Futuro — interacciones compartidas */
 document.addEventListener('DOMContentLoaded', function () {
 
   /* Año del pie */
